@@ -1,4 +1,4 @@
-# Awesome TikTok Transcripts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome TikTok Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of high-quality tools for transcribing, analyzing, editing, and
 > repurposing TikTok videos.
