@@ -1,0 +1,75 @@
+name: Weekly maintenance reminder
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'   # Every Monday 14:00 UTC = 22:00 Beijing
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open weekly maintenance issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toISOString().slice(0, 10);
+            const firstCommit = new Date('2026-05-24');
+            const daysOld = Math.floor((Date.now() - firstCommit) / (1000 * 60 * 60 * 24));
+            const eligibleForPR = daysOld >= 30;
+            const eligibleDate = new Date(firstCommit.getTime() + 30 * 24 * 60 * 60 * 1000)
+              .toISOString().slice(0, 10);
+
+            const prReadyBlock = eligibleForPR
+              ? `### 🎉 You're past the 30-day window!\n\nThis repo is now eligible to submit to [sindresorhus/awesome](https://github.com/sindresorhus/awesome).\n\nPre-submission checklist:\n- [ ] \`npx awesome-lint\` passes with zero errors\n- [ ] All links verified live (\`curl --max-time 10 -L URL\`)\n- [ ] Stars ≥ 20\n- [ ] Reviewed 4 other open PRs with substantive feedback (sindresorhus PR template hard requirement)\n- [ ] PR title: \`Add Awesome TikTok Transcripts\`\n- [ ] PR body ends with \`unicorn\` comment to confirm guidelines were read`
+              : `### ⏳ Not yet eligible for sindresorhus/awesome PR\n\nRepo is **${daysOld} days old**. Need 30+ to submit.\n\n**Eligible from**: \`${eligibleDate}\``;
+
+            const body = [
+              `Auto-generated weekly check-in for \`awesome-tiktok-transcripts\`. Close this issue after you've handled the items below.`,
+              ``,
+              `## Weekly maintenance checklist`,
+              ``,
+              `- [ ] Add 1-2 new tools to a category (especially under-filled ones: Hashtag, Trend Monitoring, Hook Libraries)`,
+              `- [ ] Run \`npx awesome-lint\` locally and confirm zero errors`,
+              `- [ ] Spot-check 5 random links with \`curl --max-time 10 -L URL\` (status code 2xx)`,
+              `- [ ] Replace any dead/stale tools`,
+              `- [ ] Look for any external mentions / PRs / issues from the past week`,
+              ``,
+              prReadyBlock,
+              ``,
+              `## Why this issue exists`,
+              ``,
+              `[\`.github/workflows/weekly-reminder.yml\`](.github/workflows/weekly-reminder.yml) opens this every Monday 14:00 UTC to keep the list healthy and meet the [awesome-list manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md) maintenance bar.`,
+            ].join('\n');
+
+            // Avoid stacking duplicate open issues if a previous reminder was never closed.
+            const { data: existing } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'weekly-reminder',
+              per_page: 5,
+            });
+            if (existing.length > 0) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existing[0].number,
+                body: `📅 Weekly check-in for **${today}** (${daysOld} days since first commit).\n\nStill open from a previous week — please address the items above and close, or comment on what's blocking.`,
+              });
+              core.notice(`Commented on existing open reminder #${existing[0].number}`);
+              return;
+            }
+
+            const { data: issue } = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Weekly check-in: ${today}`,
+              body,
+              labels: ['weekly-reminder'],
+            });
+            core.notice(`Opened issue #${issue.number}`);
