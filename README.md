@@ -15,8 +15,6 @@
 - [Affiliate & Influencer Marketing](#affiliate--influencer-marketing)
 - [API & Developer Tools](#api--developer-tools)
 - [Learning Resources](#learning-resources)
-- [Related Lists](#related-lists)
-- [Contributing](#contributing)
 
 ## Transcription & Captions
 
@@ -113,5 +111,5 @@
 
 ## Contributing
 
-Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) and the
+Contributions are welcome. Read [contributing.md](contributing.md) and the
 [Code of Conduct](code-of-conduct.md) first.
