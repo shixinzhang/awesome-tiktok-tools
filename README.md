@@ -43,6 +43,7 @@
 - [Klap](https://klap.app/) - Turn long videos into TikTok-ready clips with auto-reframe and captions.
 - [Opus Clip](https://www.opus.pro/) - AI clipping tool that extracts viral moments from long videos.
 - [InVideo](https://invideo.io/) - Online video maker with TikTok templates, stock footage, and AI voiceover.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first agent toolkit for editing, transcribing, captioning, and repurposing video.
 - [FlexClip](https://www.flexclip.com/) - Browser-based video editor with auto-subtitle and text animation.
 
 ## Content Repurposing
