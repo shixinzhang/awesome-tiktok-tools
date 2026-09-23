@@ -107,6 +107,7 @@
 - [Typefully](https://typefully.com/) - Short-form writing and scheduling, with cross-posting to TikTok.
 - [Later](https://later.com/) - Visual social media planner with TikTok scheduling, analytics, and link-in-bio.
 - [Planoly](https://www.planoly.com/) - Visual content planner for TikTok and Instagram with scheduling and analytics.
+- [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar with bulk upload.
 
 ## Affiliate & Influencer Marketing
 
