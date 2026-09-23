@@ -53,6 +53,7 @@
 - [Podcastle](https://podcastle.ai/) - Record, edit, and repurpose podcast episodes as short-form video clips.
 - [Flowjin](https://www.flowjin.com/) - Repurpose long interviews and podcasts into social-ready short clips.
 - [Pictory](https://pictory.ai/) - Convert scripts or blog posts into short-form videos with AI voiceover.
+- [ReelWorkshop](https://reelworkshop.com) - Remix your clips into polished short-form compilations for TikTok, Reels, Shorts, and Facebook.
 
 ## AI Writing & Scripts
 
