@@ -64,14 +64,15 @@
 
 ## Analytics & Insights
 
-- [Exolyt](https://exolyt.com/) - TikTok analytics with profile, hashtag, and competitor benchmarks.
-- [Pentos](https://pentos.co/) - Profile, hashtag, and song tracking for TikTok and Instagram.
-- [Tokchart](https://tokchart.com/) - TikTok creator and hashtag charts with historical data.
-- [Emplifi](https://emplifi.io/) - Enterprise social media analytics covering TikTok and others.
-- [Meltwater](https://meltwater.com/) - Media and social listening with TikTok coverage.
 - [Brandwatch](https://www.brandwatch.com/) - Social listening and consumer intelligence including TikTok.
-- [Social Blade](https://socialblade.com/) - Public statistics and growth tracking for TikTok creator accounts.
+- [Emplifi](https://emplifi.io/) - Enterprise social media analytics covering TikTok and others.
+- [Exolyt](https://exolyt.com/) - TikTok analytics with profile, hashtag, and competitor benchmarks.
 - [HypeAuditor](https://hypeauditor.com/) - TikTok influencer analytics with audience quality and authenticity scores.
+- [Meltwater](https://meltwater.com/) - Media and social listening with TikTok coverage.
+- [NakupSladilcev.si Video Engagement Calculator](https://nakupsladilcev.si/tools/engagement-rate) - Slovenian browser calculator for TikTok video engagement from manually entered counts.
+- [Pentos](https://pentos.co/) - Profile, hashtag, and song tracking for TikTok and Instagram.
+- [Social Blade](https://socialblade.com/) - Public statistics and growth tracking for TikTok creator accounts.
+- [Tokchart](https://tokchart.com/) - TikTok creator and hashtag charts with historical data.
 
 ## Hashtag & Keyword Research
 
