@@ -125,6 +125,7 @@
 
 ## API & Developer Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [TikTok for Developers](https://developers.tiktok.com/) - Official TikTok API platform including Display API and Login Kit.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Command-line downloader supporting TikTok and hundreds of other sites.
 - [TikAPI](https://tikapi.io/) - Unofficial REST API for TikTok user, video, and search data.
