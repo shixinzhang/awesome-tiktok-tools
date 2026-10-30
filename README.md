@@ -53,6 +53,7 @@
 - [Podcastle](https://podcastle.ai/) - Record, edit, and repurpose podcast episodes as short-form video clips.
 - [Flowjin](https://www.flowjin.com/) - Repurpose long interviews and podcasts into social-ready short clips.
 - [Pictory](https://pictory.ai/) - Convert scripts or blog posts into short-form videos with AI voiceover.
+- [EasySociable](https://easysociable.com/?utm_source=awesome-tiktok-tools&utm_medium=directory&utm_campaign=backlinks) - AI carousel maker that runs inside your coding agent (Claude Code, Cursor, Codex); branded multi-page carousels for TikTok, Instagram & LinkedIn. Free plan.
 
 ## AI Writing & Scripts
 
