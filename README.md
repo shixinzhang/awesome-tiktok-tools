@@ -44,6 +44,7 @@
 - [Opus Clip](https://www.opus.pro/) - AI clipping tool that extracts viral moments from long videos.
 - [InVideo](https://invideo.io/) - Online video maker with TikTok templates, stock footage, and AI voiceover.
 - [FlexClip](https://www.flexclip.com/) - Browser-based video editor with auto-subtitle and text animation.
+- [ReelWorkshop](https://reelworkshop.com) - Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 MP4 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 
 ## Content Repurposing
 
