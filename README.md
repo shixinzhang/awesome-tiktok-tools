@@ -31,6 +31,7 @@
 - [Otter.ai](https://otter.ai/) - Real-time AI transcription with search, highlights, and speaker identification.
 - [Fireflies.ai](https://fireflies.ai/) - Meeting transcription with topic tracking and conversation search.
 - [Whisper (OpenAI)](https://github.com/openai/whisper) - Open-source speech recognition model supporting 90+ languages.
+- [Voqusa](https://www.voqusa.com/) - Free transcript generator for TikTok, Reels, YouTube and more, with 14 languages and no signup.
 - [Sonix](https://sonix.ai/) - Automated transcription in 40+ languages with subtitle export and translation.
 
 ## Editing & Subtitles
