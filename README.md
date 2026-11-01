@@ -131,6 +131,7 @@
 - [Apify TikTok Scraper](https://www.apify.com/clockworks/tiktok-scraper) - Hosted scraper for TikTok profiles, hashtags, and videos.
 - [TikTok-Api (davidteather)](https://github.com/davidteather/TikTok-Api) - Python wrapper for the unofficial TikTok API.
 - [Pyktok](https://github.com/dfreelon/pyktok) - Python library for collecting TikTok video metadata, captions, and comments.
+- [TikTok Transcript Scraper (Apify)](https://apify.com/tubetext/tiktok-transcript) - Extracts TikTok captions or AI transcripts with timestamps and SRT for supported public videos.
 
 ## Learning Resources
 
