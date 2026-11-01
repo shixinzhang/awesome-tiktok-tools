@@ -43,6 +43,7 @@
 - [Klap](https://klap.app/) - Turn long videos into TikTok-ready clips with auto-reframe and captions.
 - [Opus Clip](https://www.opus.pro/) - AI clipping tool that extracts viral moments from long videos.
 - [InVideo](https://invideo.io/) - Online video maker with TikTok templates, stock footage, and AI voiceover.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16; paid remakes from $3.99 / HD $5.99, no free preview).
 - [FlexClip](https://www.flexclip.com/) - Browser-based video editor with auto-subtitle and text animation.
 
 ## Content Repurposing
