@@ -61,6 +61,7 @@
 - [Jasper](https://www.jasper.ai/) - Enterprise AI writing platform with social media and video script workflows.
 - [Writesonic](https://writesonic.com/) - AI writing tool with short-form video script and caption templates.
 - [Syllaby](https://syllaby.io/) - AI video script generator tailored to TikTok and YouTube Shorts niches.
+- [TikTok Marketing Skills](https://github.com/sergebulaev/tiktok-skills) - Open-source Claude Code and Codex skills to script hooks, write captions, and plan TikTok content in your voice, with an AI-tell humanizer. MIT.
 
 ## Analytics & Insights
 
