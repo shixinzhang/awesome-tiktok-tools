@@ -32,6 +32,7 @@
 - [Fireflies.ai](https://fireflies.ai/) - Meeting transcription with topic tracking and conversation search.
 - [Whisper (OpenAI)](https://github.com/openai/whisper) - Open-source speech recognition model supporting 90+ languages.
 - [Sonix](https://sonix.ai/) - Automated transcription in 40+ languages with subtitle export and translation.
+- [WatchToText](https://watchtotext.com/tiktok-transcript/) - TikTok transcripts from a link, exported as TXT, SRT or VTT.
 
 ## Editing & Subtitles
 
