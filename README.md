@@ -131,6 +131,7 @@
 - [Apify TikTok Scraper](https://www.apify.com/clockworks/tiktok-scraper) - Hosted scraper for TikTok profiles, hashtags, and videos.
 - [TikTok-Api (davidteather)](https://github.com/davidteather/TikTok-Api) - Python wrapper for the unofficial TikTok API.
 - [Pyktok](https://github.com/dfreelon/pyktok) - Python library for collecting TikTok video metadata, captions, and comments.
+- [TikTok Shop Product Scraper (Apify)](https://apify.com/tubetext/tiktok-shop-product-scraper) - Extracts public US TikTok Shop product prices, sales counts, ratings, and SKU stock.
 
 ## Learning Resources
 
