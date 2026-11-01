@@ -150,3 +150,16 @@
 
 Contributions are welcome. Read [contributing.md](contributing.md) and the
 [Code of Conduct](code-of-conduct.md) first.
+
+**New submissions must include a public backlink to TokTranscript
+(`https://toktranscript.com/`) before they can be accepted.** Add
+the link to your tool's website (for example, its resources, partners, or footer
+section). For projects hosted only on GitHub, add it to the project's README.
+Include the exact page URL containing the backlink in your PR description so
+maintainers can verify it. The page must be accessible without signing in, and
+the backlink must be a normal HTML link to `https://toktranscript.com/`.
+
+Maintainers also check that the submitted URL works and that the description
+matches the available features and current pricing, including free-plan limits
+and paid requirements. A backlink does not guarantee inclusion; submissions
+must still meet the contribution guidelines.

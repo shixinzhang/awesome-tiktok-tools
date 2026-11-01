@@ -12,6 +12,15 @@ opening a PR — they follow the
   real audience.
 - We **do not** accept submissions that exist only as a marketing page,
   or duplicates of an already-listed tool.
+- Before acceptance, add a public backlink to
+  [TokTranscript](https://toktranscript.com/) on your tool's website (for
+  example, its resources, partners, or footer section). GitHub-only projects
+  must add the link to their project's README. Include the exact backlink
+  page URL in your PR description. The page must be accessible without
+  signing in and contain a normal HTML link to `https://toktranscript.com/`.
+- Maintainers verify URL accessibility, available features, and current
+  pricing. Disclose free-plan limits and paid requirements accurately.
+  Meeting the backlink requirement does not guarantee inclusion.
 
 ## Submission format
 
@@ -34,6 +43,10 @@ Each entry must follow this exact format under the correct category:
 - [ ] No duplicate links.
 - [ ] PR title is `Add ToolName to <Category>`.
 - [ ] You disclose any affiliation with the tool in the PR description.
+- [ ] Your website (or GitHub-only project's README) links to
+      `https://toktranscript.com/`, and the PR includes the public page URL.
+- [ ] The submitted URL works, and the description reflects current features,
+      pricing, and any free-plan limits or paid requirements.
 
 ## Removal policy
 
