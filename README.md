@@ -23,6 +23,7 @@
 - [TokTranscript](https://toktranscript.com/?utm_source=github_awesome&utm_campaign=awesome_list) - AI TikTok transcription with viral breakdowns and 100+ language translation.
 - [Submagic](https://www.submagic.co/) - Auto-captions and short video editing for creators.
 - [Captions](https://www.captions.ai/) - AI-powered captions and subtitles for short-form video.
+- [Karaoke Captions](https://karaokecaptions.com/) - Generate animated word-by-word TikTok captions with on-device transcription and subtitle export.
 - [VEED.io](https://www.veed.io/) - Browser-based video editor with automatic subtitle generation.
 - [Riverside Transcription](https://riverside.fm/transcription) - Transcription with speaker labels for podcasters and creators.
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-text API with speaker diarization and content moderation.
