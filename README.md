@@ -33,6 +33,7 @@
 - [Whisper (OpenAI)](https://github.com/openai/whisper) - Open-source speech recognition model supporting 90+ languages.
 - [Sonix](https://sonix.ai/) - Automated transcription in 40+ languages with subtitle export and translation.
 
+- [InstaScript](https://instascript.app/tiktok-transcript) - Free, on-device English transcription for saved TikTok videos, with TXT and subtitle exports.
 ## Editing & Subtitles
 
 - [CapCut](https://www.capcut.com/) - TikTok's first-party video editor for desktop, mobile, and web.
