@@ -67,6 +67,7 @@
 - [Exolyt](https://exolyt.com/) - TikTok analytics with profile, hashtag, and competitor benchmarks.
 - [Pentos](https://pentos.co/) - Profile, hashtag, and song tracking for TikTok and Instagram.
 - [Tokchart](https://tokchart.com/) - TikTok creator and hashtag charts with historical data.
+- [TKMetrics](https://tkmetrics.com/) - TikTok creator stats, hashtag trends and earnings estimates from public data, with the method behind each number.
 - [Emplifi](https://emplifi.io/) - Enterprise social media analytics covering TikTok and others.
 - [Meltwater](https://meltwater.com/) - Media and social listening with TikTok coverage.
 - [Brandwatch](https://www.brandwatch.com/) - Social listening and consumer intelligence including TikTok.
