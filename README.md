@@ -36,6 +36,7 @@
 ## Editing & Subtitles
 
 - [CapCut](https://www.capcut.com/) - TikTok's first-party video editor for desktop, mobile, and web.
+- [Barz Studio](https://barzvideo.com/?utm_source=shixinzhang-awesome-tiktok-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [Descript](https://www.descript.com/) - Edit video by editing the transcript, plus AI overdub.
 - [Kapwing](https://www.kapwing.com/) - Collaborative online editor with auto-captions and subtitles.
 - [Canva](https://www.canva.com/) - Drag-and-drop video templates sized for TikTok and Reels.
